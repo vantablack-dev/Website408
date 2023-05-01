@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: #2f2f2f;
+  }
+  
+  .footer-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+  }
+  
+  .footer-menu-item {
+    margin-right: 30px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .footer-menu-item:last-child {
+    margin-right: 0;
+  }
+  

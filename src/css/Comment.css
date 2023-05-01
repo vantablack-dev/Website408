@@ -1,0 +1,12 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+button{
+    margin: 30px auto;
+}
+label {
+    margin: 10px;
+}
